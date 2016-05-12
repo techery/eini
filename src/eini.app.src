@@ -4,5 +4,7 @@
     {applications, [kernel, stdlib]},
     {modules, []},
     {registered, []},
-    {mod, {eini_app, []}}
+    {mod, {eini_app, []}},
+    {licenses, ["Apache 2.0"]},
+    {links, [{"Github", "https://github.com/accense/eini"}]}
 ]}.

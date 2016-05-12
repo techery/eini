@@ -5,3 +5,5 @@ src/eini_lexer.erl
 ebin/*.app
 .eunit
 deps
+/_build
+/TEST-*.xml
